@@ -10,7 +10,6 @@ def descargar_mp3_con_ytdlp(url, carpeta_destino):
             'preferredquality': '320',
         }],
     }
-
     with yt_dlp.YoutubeDL(opciones) as ydl:
         ydl.download([url])
 
