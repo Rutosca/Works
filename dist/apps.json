@@ -1,0 +1,22 @@
+{
+    "Ryujinx": [
+        "C:/Rub\u00e9n/Emuladores/ryujinx-1.1.1346-win_x64/publish/Ryujinx.exe",
+        "#ff0000"
+    ],
+    "Cemu": [
+        "C:/Rub\u00e9n/Emuladores/Cemu_2.4/Cemu.exe",
+        "#00ffff"
+    ],
+    "Melon": [
+        "C:/Rub\u00e9n/Emuladores/melonDS-windows-x86_64/melonDS.exe",
+        "#00ff00"
+    ],
+    "Citra": [
+        "C:/Users/rutos/AppData/Local/Citra/nightly/citra-qt.exe",
+        "#f9db06"
+    ],
+    "Dolphin": [
+        "C:/Users/rutos/AppData/Local/Dolphin-x64/Dolphin.exe",
+        "#0080c0"
+    ]
+}
