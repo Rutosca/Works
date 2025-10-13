@@ -1,8 +1,0 @@
-# Indicar que todo el código .py es Python
-*.py linguist-detectable=true
-*.py linguist-language=Python
-
-# Excluir documentación y archivos LaTeX o HTML del conteo
-*.html linguist-detectable=false
-*.tex linguist-detectable=false
-docs/* linguist-detectable=false
